@@ -12,6 +12,11 @@ module.exports = {
         'blue-green': '#219EBC',
         'sky-blue': '#8ECAE6',
       },
+      fontFamily: {
+        brandon: ["BRANDON-LIGHT", "cursive"],
+        "brandon-med": ["BRANDON-MED", "cursive"],
+        "brandon-fat": ["BRANDON-BLD", "cursive"],
+      },
     },
   },
   plugins: [],

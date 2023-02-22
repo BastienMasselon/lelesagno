@@ -32,6 +32,7 @@ function Header() {
           </li>
         </ul>
       </nav>
+      <div> The quick brown fox jumps over the lazy dog </div>
     </header>
   );
 }
